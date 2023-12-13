@@ -1,0 +1,128 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mohamed Aldakhil
+ID:      169072233
+Email:   alda2233@mylaurier.ca
+Version: 2023-09-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a positive integer: 5
+120
+
+Enter a positive integer: 23
+25852016738884976640000
+
+Enter a positive integer: 0
+1
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the calories burned per minute: 4.1
+Enter the total number of minutes run: 20
+5   20.5
+10  41.0
+15  61.5
+20  82.0
+
+Enter the calories burned per minute: 3
+Enter the total number of minutes run: 40
+5  15.0
+10  30.0
+15  45.0
+20  60.0
+25  75.0
+30  90.0
+35  105.0
+40  120.0
+
+
+Enter the calories burned per minute: 10
+Enter the total number of minutes run: 23
+5  50.0
+10  100.0
+15  150.0
+20  200.0
+
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter the number of rows for the arrow: 4
+   #
+  # #
+ #   #
+#     #
+
+
+Enter the number of rows for the arrow: 1
+#
+
+Enter the number of rows for the arrow: 10
+         #
+        # #
+       #   #
+      #     #
+     #       #
+    #         #
+   #           #
+  #             #
+ #               #
+#                 #
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter the start number: 2
+Enter the stop number: 4
+                  2       3       4
+           ---------------------------
+ 2 |       4       6       8
+ 3 |       6       9      12
+ 4 |       8      12      16
+
+Enter the start number: 1
+Enter the stop number: 2
+                  1       2
+           ------------------
+ 1 |       1       2
+ 2 |       2       4
+
+
+Enter the start number: 0
+Enter the stop number: 0
+                  0
+           ---------
+ 0 |       0
+
+
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter the start value: 1
+Enter the increment value: 2
+Enter the number of values to sum: 20
+400
+
+Enter the start value: 0
+Enter the increment value: 0
+Enter the number of values to sum: 0
+0
+
+Enter the start value: 2
+Enter the increment value: 3
+Enter the number of values to sum: 40
+2420
+
+
+-------------------------------------------------------
+
